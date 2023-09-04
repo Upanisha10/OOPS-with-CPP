@@ -3,6 +3,8 @@ using namespace std;
 /*Inheritance*/
 
 //Inheritance is the process of accessing public and protected members and functions in a parent/base class by child/derived class
+//Class that gives properties : parent/base class
+//Class that inherits these properties : child/derived class
 
 //Type of inheritance can either be public, private or protected
 //The type will determine the access mode of the variables that are inherited by the child class
